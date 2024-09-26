@@ -12,7 +12,7 @@ header{
 
 
 .intro{
-    background-image: url("/image/cybrella.png");
+    background-image: url("cybrella.png");
     background-size:contain;
     background-position:center;
     background-repeat: no-repeat;
